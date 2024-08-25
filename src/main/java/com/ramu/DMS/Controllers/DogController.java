@@ -27,6 +27,7 @@ public class DogController {
 //	@RequestMapping("dogHome")
 //	public String home() {
 //		return "home";
+//
 //	}
 	
 	@RequestMapping("dogHome")
